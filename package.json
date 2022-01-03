@@ -1,0 +1,20 @@
+{
+  "name": "astro-math-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astro": "^0.22.3",
+    "morphdom": "^2.6.1",
+    "rehype-katex": "^6.0.2",
+    "remark-math": "^5.1.1"
+  }
+}

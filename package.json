@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "astro": "^0.22.3",
+    "astro": "^0.22.6",
     "morphdom": "^2.6.1",
     "rehype-katex": "^6.0.2",
     "remark-math": "^5.1.1"
